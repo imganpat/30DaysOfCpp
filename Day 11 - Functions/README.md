@@ -1,4 +1,4 @@
-# Day 10
+# Day 11
 
 This is day 11 of cpp. Today I have learned about functions. Basically it is used to do a paricular times with just make a block of code once.
 
