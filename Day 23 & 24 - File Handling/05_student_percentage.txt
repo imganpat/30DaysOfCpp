@@ -1,0 +1,12 @@
+
+Name: Ganpat
+Percentage : 94.67
+
+Name: Kabir
+Percentage : 71.67
+
+Name: Mukesh
+Percentage : 81
+
+Name: Rajesh
+Percentage : 72.33
