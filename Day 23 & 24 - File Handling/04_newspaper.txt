@@ -1,0 +1,12 @@
+
+Name: times of India
+Publisher: Agarwal groups
+Price: 5
+
+Name: Lokmat
+Publisher: Lokmat coperation
+Price: 4
+
+Name: Pune Times
+Publisher: Pawar ltd
+Price: 4
