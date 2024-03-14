@@ -22,6 +22,10 @@ THis is day 25 & 26 of cpp. Today I have learned about Templates in cpp. It is u
 
 4. Created [4th program](https://github.com/imganpat/30DaysOfCpp/blob/main/Day%2025%20%26%2026%20-%20Templates/04_deafult.cpp) which uses the concept of default parameter template. It shows how we can use default datatype if not mentioned in a template class.
 
+5. Created [5th program](https://github.com/imganpat/30DaysOfCpp/blob/main/Day%2025%20%26%2026%20-%20Templates/05_sort.cpp) which has a function template to accept array of any data and sorts in acending order.
+
+6. Created [6th program](https://github.com/imganpat/30DaysOfCpp/blob/main/Day%2025%20%26%2026%20-%20Templates/05_square.cpp) which has a class template to accept a number and prints the square.
+
 ## Issues Faced
 
 1. I tried to print the type of variable but it dosen't work for strings.
