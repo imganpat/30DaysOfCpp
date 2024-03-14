@@ -1,6 +1,6 @@
-## Day 25
+## Day 25 & 26
 
-THis is day 25 of cpp. Today I have learned about Templates in cpp. It is used to write generic programs.
+THis is day 25 & 26 of cpp. Today I have learned about Templates in cpp. It is used to write generic programs.
 
 ## Learnings
 
@@ -8,6 +8,8 @@ THis is day 25 of cpp. Today I have learned about Templates in cpp. It is used t
 1. Need of Template
 1. Functional Template
 1. Class Template
+1. Multi Parameter Template
+1. Default Parameter Template
 
 ## Practicals
 
@@ -15,6 +17,10 @@ THis is day 25 of cpp. Today I have learned about Templates in cpp. It is used t
 
 2. Created [2nd program](https://github.com/imganpat/30DaysOfCpp/blob/main/Day%2025%20%26%2026%20-%20Templates/02_class_template.cpp) which uses the concept of class template. It has a class which a data member and a method.
    We can pass any datatype for the member it will store and diaplay it.
+
+3. Created [3rd program](https://github.com/imganpat/30DaysOfCpp/blob/main/Day%2025%20%26%2026%20-%20Templates/03_multiple.cpp) which uses the concept of multiple parameter template. It shows we can use 2 different datatypes in class templates.
+
+4. Created [4th program](https://github.com/imganpat/30DaysOfCpp/blob/main/Day%2025%20%26%2026%20-%20Templates/04_deafult.cpp) which uses the concept of default parameter template. It shows how we can use default datatype if not mentioned in a template class.
 
 ## Issues Faced
 
